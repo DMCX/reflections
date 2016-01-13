@@ -10,3 +10,6 @@ It can be used to compare commits between working area and commits using git dif
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches is particularly helpful when working on different version at the same time
 It allow us to save various version
+
+How do the diagrams help you visualize the branch structure?
+It helps to understand which commit I am working on and particularly when working on a detached head
