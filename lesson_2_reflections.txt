@@ -13,3 +13,6 @@ It allow us to save various version
 
 How do the diagrams help you visualize the branch structure?
 It helps to understand which commit I am working on and particularly when working on a detached head
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It allows to save specific commit versions and access different projects. The visual help us to understand what can be accessed before and after merging branches.
