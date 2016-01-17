@@ -16,3 +16,7 @@ It helps to understand which commit I am working on and particularly when workin
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It allows to save specific commit versions and access different projects. The visual help us to understand what can be accessed before and after merging branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Cons are that automatic merge can have conflicting versions
+Pro are that it save time
