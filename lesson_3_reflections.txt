@@ -11,3 +11,6 @@ Branches allow to save various version locally and on Github. It can be shared w
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We can be sure to work on latest version of repositary and avoid work on an updated version
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Collaborators meeting might be an alternative but I think Git and Github are so efficient and practical that I cannot think of another option.
