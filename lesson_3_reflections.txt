@@ -14,3 +14,5 @@ We can be sure to work on latest version of repositary and avoid work on an upda
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Collaborators meeting might be an alternative but I think Git and Github are so efficient and practical that I cannot think of another option.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+It might be good for allowing every collaborators to work on their own separate version and then mergin all updated version once every one agreed to update a master version.
